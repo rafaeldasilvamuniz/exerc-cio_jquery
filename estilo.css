@@ -85,8 +85,12 @@ p {
     font-size: 16px;
     font-weight: bolder;
     cursor: pointer;
-    text-decoration: line-through;
+   text-decoration: line-through;
     color: red;
 }
   
 
+#risca{
+    /*text-decoration: line-through;*/
+    color: red;
+}
